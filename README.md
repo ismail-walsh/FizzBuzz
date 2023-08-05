@@ -1,4 +1,4 @@
-**FizzBuzz Java Application**
+# FizzBuzz Java Application
 
 This Java application implements the classic FizzBuzz game, a popular programming challenge where numbers are printed from 1 to a given input value. For each number in the sequence, the program checks if the number is divisible by 3, 5, or both, and prints corresponding strings "Fizz," "Buzz," or "FizzBuzz" accordingly. Additionally, the user can choose to play the game or exit the program.
 
